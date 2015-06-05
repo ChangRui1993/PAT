@@ -132,7 +132,7 @@ bool cmp(Student a, Student b)
 int main()
 {
 
-    freopen("D:\input.txt", "r", stdin);
+    //freopen("D:\input.txt", "r", stdin);
 
     int n,l,h;
 
